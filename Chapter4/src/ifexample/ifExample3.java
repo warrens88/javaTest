@@ -30,7 +30,7 @@ public class ifExample3 {
 		
 		int max;
 		
-		max = (a > b)? a:b;
+		max = (a > b)? a : b;
 		System.out.println(max);
 	}
 
