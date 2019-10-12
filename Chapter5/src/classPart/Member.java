@@ -10,6 +10,6 @@ public class Member {
 	public String blood;
 	
 	public void showMemberInfo() {
-		System.out.println("�ȳ��ϼ��� �� �̸���" + memberName + "�Դϴ� �׸���," + address + "�� ��� ��̴�" + hobby + "�̸�" + age + "���Դϴ�. ��������" + blood + "�Դϴ�" );
+		System.out.println("이름은" + memberName + "주소는," + address + "취미는" + hobby + "나이는" + age + "혈액형은" + blood + "형" );
 	}
 }
