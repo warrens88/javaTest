@@ -10,6 +10,6 @@ public class Member {
 	public String blood;
 	
 	public void showMemberInfo() {
-		System.out.println("¾È³çÇÏ¼¼¿ä Á¦ ÀÌ¸§Àº" + memberName + "ÀÔ´Ï´Ù ±×¸®°í," + address + "¿¡ »ì°í Ãë¹Ì´Â" + hobby + "ÀÌ¸ç" + age + "»ìÀÔ´Ï´Ù. Ç÷¾×ÇüÀº" + blood + "ÀÔ´Ï´Ù" );
+		System.out.println("ï¿½È³ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ì¸ï¿½ï¿½ï¿½" + memberName + "ï¿½Ô´Ï´ï¿½ ï¿½×¸ï¿½ï¿½ï¿½," + address + "ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½Ì´ï¿½" + hobby + "ï¿½Ì¸ï¿½" + age + "ï¿½ï¿½ï¿½Ô´Ï´ï¿½. ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" + blood + "ï¿½Ô´Ï´ï¿½" );
 	}
 }
